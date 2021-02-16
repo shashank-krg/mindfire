@@ -17,6 +17,18 @@ body {
 	padding-bottom: 90px;
 	
 }
+.fontinpara
+{
+	font-weight:bold;
+	color:red;
+	cursor:pointer;
+}
+.fontinparab
+{
+	font-weight:bold;
+	color:black;
+	cursor:pointer;
+}
 .logo
 {
 	
@@ -63,7 +75,10 @@ body {
 	font-weight:bold;
 	font-size: 35px;
 	font-family:Verdana;
-	margin-top: 95px;
+	margin-top: 210px;
+	background-color: green;
+	width:700px !important;
+	margin-left: 345px;
 }
 #tsmall
 {
@@ -78,4 +93,13 @@ body {
 {
 	margin-left: 570px;
 }
-
+.error{
+	font-size: 12px;
+	position: relative;
+	color: red !important;
+	font-weight: 600;
+}
+.center-align
+{
+	margin-top: -11px;
+}
