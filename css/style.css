@@ -94,10 +94,11 @@ body {
 	margin-left: 570px;
 }
 .error{
-	font-size: 12px;
-	position: relative;
-	color: red !important;
-	font-weight: 600;
+	
+		font-size: 15px;
+		font-family: Arial;
+		color: #FF0052;
+
 }
 .center-align
 {
